@@ -2,3 +2,7 @@ img {
     max-width:300px;
     border-radius: 10px;
 }
+
+.glass {
+    max-width: 45px;
+}
