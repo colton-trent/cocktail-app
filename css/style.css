@@ -6,3 +6,52 @@ img {
 .glass {
     max-width: 45px;
 }
+
+body {
+    color: white;
+    background-image: url(/mycollection/svg/cocktail-background2.jpg);
+    text-outline: black;
+    text-shadow: 1px 2px black;
+}
+
+#directions {
+    max-width: 53vw;
+}
+
+.glass {
+    background: white;
+    padding: 2px;
+}
+
+#searchBtn {
+    background-color: rgba(200, 200, 200, .3);
+    border-radius: 8px;
+    color: white;
+}
+
+input[type="submit"] {
+    background-color: rgba(200, 200, 200, 1);
+    border-radius: 8px;
+    margin: 5px auto;
+}
+
+#randomBtn {
+    background-color: rgba(200, 200, 200, 1);
+    border-radius: 8px;
+    margin: 10px auto;
+}
+
+p {
+    font-size: 25px;
+    margin: .5px;
+}
+
+h3 {
+    font-size: 30px;
+    text-decoration: underline;
+    margin: 10px auto;
+}
+
+#directions {
+    margin: 20px 0px;
+}
